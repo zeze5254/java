@@ -1,0 +1,26 @@
+2025-07-06 00:16:12.652 [main] INFO  com.server.Main - Serveur démarré sur le port 12345
+2025-07-06 00:16:59.282 [main] INFO  com.server.Main - Serveur démarré sur le port 12345
+2025-07-06 00:32:02.124 [main] INFO  com.server.Main - Serveur démarré avec succès sur le port 1234
+2025-07-06 00:33:10.925 [main] ERROR com.server.Main - ERREUR: Le port 1234 est déjà utilisé.
+2025-07-06 00:33:10.929 [main] ERROR com.server.Main - Solutions possibles:
+2025-07-06 00:33:10.930 [main] ERROR com.server.Main - 1. Fermez toute autre instance de ce serveur
+2025-07-06 00:33:10.930 [main] ERROR com.server.Main - 2. Exécutez 'netstat -ano | findstr :1234' pour identifier le processus
+2025-07-06 00:33:10.937 [main] ERROR com.server.Main - 3. Utilisez 'taskkill /PID [PID] /F' pour terminer le processus
+2025-07-06 00:33:10.938 [main] ERROR com.server.Main - Erreur serveur: Address already in use: bind
+2025-07-06 00:34:40.364 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:49988
+2025-07-06 00:34:50.012 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:49989
+2025-07-06 00:35:30.103 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:49991
+2025-07-06 00:37:00.502 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:50003
+2025-07-06 00:37:36.629 [Thread-3] INFO  com.server.Main - bonjour waa MCS a rejoint le chat
+2025-07-06 00:38:02.179 [Thread-3] INFO  com.server.Main - bonjour waa MCS a quitté le chat
+2025-07-06 00:38:09.838 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:50008
+2025-07-06 00:38:42.422 [Thread-4] INFO  com.server.Main - Alice a rejoint le chat
+2025-07-06 00:39:12.134 [Thread-4] INFO  com.server.Main - Alice: bonsoir chat
+2025-07-06 00:39:57.465 [Thread-0] INFO  com.server.Main - Bob a rejoint le chat
+2025-07-06 00:40:26.776 [Thread-0] INFO  com.server.Main - Bob: comment vas tu waa barca
+2025-07-06 00:45:00.801 [Thread-0] INFO  com.server.Main - Bob a quitté le chat
+2025-07-06 00:45:08.243 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:50049
+2025-07-06 00:45:23.292 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:50051
+2025-07-06 00:45:51.987 [Thread-6] INFO  com.server.Main - bob a rejoint le chat
+2025-07-06 00:45:59.685 [Thread-6] INFO  com.server.Main - bob a quitté le chat
+2025-07-06 00:52:41.682 [main] INFO  com.server.Main - Nouvelle connexion: /127.0.0.1:50086

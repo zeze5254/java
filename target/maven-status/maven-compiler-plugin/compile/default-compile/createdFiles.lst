@@ -1,0 +1,5 @@
+com\client\ChatClient.class
+com\server\AuthHandler.class
+com\server\Main$ClientHandler.class
+com\server\Main.class
+com\server\ClientHandler.class
